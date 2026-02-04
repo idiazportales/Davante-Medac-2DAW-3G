@@ -1,1 +1,1 @@
-Tarea Todo con Github y Jira
+Tarea Todo con Github, Jira y JS
