@@ -1,3 +1,8 @@
+
+function multiplicar(a, b) {
+    return a * b;
+}
+
 // Funcion sumar (Rubén)
 
 function sumar(a, b) {
